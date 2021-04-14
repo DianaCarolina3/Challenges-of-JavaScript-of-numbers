@@ -1,0 +1,19 @@
+{
+  "name": "challenge-jsnumbers",
+  "version": "1.0.0",
+  "description": "challenge javascript logic math",
+  "main": "src/index.js",
+  "scripts": {
+    "testCero": "node src/Fibonacci/index.js",
+    "testOne": "node src/Factorial/index.js",
+    "testTwo": "node src/PrimalityTest/index.js",
+    "testThree": "node src/PascalsTriangle/index.js",
+    "testFour": "node src/TriangleArea/index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Diana Carolina Campuzano Garzón <dcaroli2015@gmail.com>",
+  "license": "MIT"
+}
