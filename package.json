@@ -7,8 +7,7 @@
     "testCero": "node src/Fibonacci/index.js",
     "testOne": "node src/Factorial/index.js",
     "testTwo": "node src/PrimalityTest/index.js",
-    "testThree": "node src/PascalsTriangle/index.js",
-    "testFour": "node src/TriangleArea/index.js"
+    "testThree": "node src/TriangleArea/index.js"
   },
   "keywords": [
     "node",
